@@ -1,6 +1,6 @@
 ## Hi👋, I'm Deepali
 
-### A ML/DL enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)
+### A business-focused AI enthusiast, like a finely tuned algorithm optimizing for success, constantly iterating on my strategies and leveraging the latest advancements in Machine Learning, Deep Learning and Generative AI to achieve impactful results.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-106&label=Profile%20views&color=0e75b6&style=flat" alt="d-106" /> </p>
 
