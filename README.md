@@ -1,8 +1,6 @@
 ## Hi👋, I'm Deepali
 
-# A ML/DL enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)
-<!--
-**d-106/d-106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A ML/DL enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)
 
 Here are some ideas to get you started:
 
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 
 - Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:)
 
--->
