@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about GenAI, ML, Deep Learning, Mlops
 
-- 📫 You can reach out to me on linkedin https://www.linkedin.com/in/deepali71195/?trk=eml-email_m2m_invite_single_01-header-0-profile_glimmer
+- 📫 You can reach out to me on [LinkedIn Profile](https://www.linkedin.com/in/deepali71195/?trk=eml-email_m2m_invite_single_01-header-0-profile_glimmer)
 
 - Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:)
 
