@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-106" alt="kolhesamiksha" /></a> </p>
 
-<p><img align="right" alt="gif" src="https://github.com/kolhesamiksha/kolhesamiksha/blob/main/img.gif" width="350" height="350" /></p>
-
 
 Here are some ideas to get you started:
 
