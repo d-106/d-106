@@ -7,8 +7,6 @@ Here are some other details about me:
 
 - 👨‍💻 All of my projects are available at https://github.com/d-106
 
-- 💬 Ask me about GenAI, ML, Deep Learning, Mlops
-
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/deepali71195/?trk=eml-email_m2m_invite_single_01-header-0-profile_glimmer)
 
 - My [Portfolio](https://codebasics.io/portfolio/Deepali)
